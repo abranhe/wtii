@@ -20,13 +20,13 @@
 </p>
 
 
-# Install
+## Install
 
 ```
 $ npm install -g wtii
 ```
 
-# Usage
+## Usage
 
 ```console
 What time is it? ⏰
@@ -51,7 +51,7 @@ Examples
   ╰───────╯
 ```
 
-# See it on action
+## See it on action
 
 <p>
 	<a href="https://www.npmjs.com/package/wtii"><img src="https://cdn.abranhe.com/projects/wtii/movie.gif"></a>
