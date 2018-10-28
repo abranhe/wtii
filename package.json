@@ -1,0 +1,47 @@
+{
+	"name": "wtii",
+	"version": "0.0.1",
+	"description": "What time is it? ⏰",
+	"license": "MIT",
+	"repository": "abranhe/wtii",
+	"author": {
+		"name": "Abraham Hernandez",
+		"email": "abraham@abranhe.com",
+		"url": "abranhe.com"
+	},
+	"bugs": {
+    "url": "https://github.com/abranhe/wtii/issues"
+  },
+  "homepage": "https://projects.abranhe.com/wtii",
+	"bin": {
+    "wtii": "cli.js",
+		"what-time-is-it": "cli.js"
+  },
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo"
+	},
+	"files": [
+		"cli.js"
+	],
+	"keywords": [
+		"cli",
+		"time",
+		"clock",
+		"get-time",
+		"command-line",
+		"current-time",
+		"what-time-is-it"
+	],
+	"dependencies": {
+		"@abranhe/feedback": "^1.1.1",
+		"boxen": "^2.0.0",
+		"meow": "^5.0.0",
+		"o-clock": "^0.1.2"
+	},
+	"devDependencies": {
+		"xo": "^0.23.0"
+	}
+}
