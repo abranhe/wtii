@@ -1,9 +1,13 @@
 <p align="center">
+	<br>
+	<br>
+	<br>
 	<a href="https://www.npmjs.com/package/wtii"><img src="https://cdn.abranhe.com/projects/wtii/logo.svg"></a>
 	<br>
 	<br>
 	<br>
 	<a href="https://www.npmjs.com/wtii">wtii</a>?: What time is it? ⏰
+	<br>
 </p>
 
 <p align="center">
@@ -47,6 +51,11 @@ Examples
   ╰───────╯
 ```
 
+# See it on action
+
+<p>
+	<a href="https://www.npmjs.com/package/wtii"><img src="https://cdn.abranhe.com/projects/wtii/movie.gif"></a>
+</p>
 
 ## Team
 
