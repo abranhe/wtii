@@ -1,14 +1,15 @@
 [![wtii](https://cdn.abranhe.com/projects/wtii/logo.svg)](https://www.npmjs.com/package/wtii)
 
-# wtii [![](https://img.shields.io/travis/abranhe/wtii.svg?logo=travis)](https://travis-ci.org/abranhe/wtii)
+# wtii 
 
-> What time is it? ⏰
-
+[![](https://img.shields.io/travis/abranhe/wtii.svg?logo=travis)](https://travis-ci.org/abranhe/wtii)
 [![](https://abranhe.com/badge.svg)](https://github.com/abranhe)
 [![](https://cdn.abranhe.com/badges/cash-me.svg)](https://cash.me/$abranhe)
 [![](https://cdn.abranhe.com/badges/patreon.svg)](https://patreon.com/abranhe)
 [![](https://img.shields.io/github/license/abranhe/wtii.svg)](https://github.com/abranhe/wtii/blob/master/license)
 [![](https://img.shields.io/npm/v/wtii.svg)](https://www.npmjs.com/package/wtii)
+
+> What time is it? ⏰
 
 
 ## Install
