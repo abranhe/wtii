@@ -1,32 +1,23 @@
-<p align="center">
-	<br>
-	<br>
-	<br>
-	<a href="https://www.npmjs.com/package/wtii"><img src="https://cdn.abranhe.com/projects/wtii/logo.svg"></a>
-	<br>
-	<br>
-	<br>
-	<a href="https://www.npmjs.com/wtii">wtii</a>?: What time is it? ⏰
-	<br>
-</p>
+[![wtii](https://cdn.abranhe.com/projects/wtii/logo.svg)](https://www.npmjs.com/package/wtii)
 
-<p align="center">
-	<a href="https://travis-ci.org/abranhe/wtii"><img src="https://img.shields.io/travis/abranhe/wtii.svg?logo=travis" /></a>
-	<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
-	<a href="https://cash.me/$abranhe"><img src="https://cdn.abranhe.com/badges/cash-me.svg"></a>
-	<a href="https://patreon.com/abranhe"><img src="https://cdn.abranhe.com/badges/patreon.svg" /></a>
-	<a href="https://github.com/abranhe/wtii/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/wtii.svg" /></a>
-  <a href="https://www.npmjs.com/package/wtii"><img src="https://img.shields.io/npm/v/wtii.svg"></a>
-</p>
+# wtii [![](https://img.shields.io/travis/abranhe/wtii.svg?logo=travis)](https://travis-ci.org/abranhe/wtii)
+
+> What time is it? ⏰
+
+[![](https://abranhe.com/badge.svg)](https://github.com/abranhe)
+[![](https://cdn.abranhe.com/badges/cash-me.svg)](https://cash.me/$abranhe)
+[![](https://cdn.abranhe.com/badges/patreon.svg)](https://patreon.com/abranhe)
+[![](https://img.shields.io/github/license/abranhe/wtii.svg)](https://github.com/abranhe/wtii/blob/master/license)
+[![](https://img.shields.io/npm/v/wtii.svg)](https://www.npmjs.com/package/wtii)
 
 
-# Install
+## Install
 
 ```
 $ npm install -g wtii
 ```
 
-# Usage
+## Usage
 
 ```console
 What time is it? ⏰
@@ -51,18 +42,10 @@ Examples
   ╰───────╯
 ```
 
-# See it on action
+### See it on action
 
-<p>
-	<a href="https://www.npmjs.com/package/wtii"><img src="https://cdn.abranhe.com/projects/wtii/movie.gif"></a>
-</p>
-
-## Team
-
-|[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50)](https://abranhe.com)|
-| :-: |
-| [Carlos Abraham](https://github.com/abranhe) |
+![Movie](https://cdn.abranhe.com/projects/wtii/movie.gif)
 
 ## License
 
-[MIT](https://github.com/abranhe/wtii/blob/master/license) License © [Carlos Abraham](https://github.com/abranhe/)
+MIT © [Carlos Abraham](https://github.com/abranhe/)

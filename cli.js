@@ -6,7 +6,8 @@ const boxen = require('boxen');
 const oclock = require('o-clock');
 const feedback = require('@abranhe/feedback');
 
-const cli = meow(`
+const cli = meow(
+	`
 	Usage
 	  $ wtii
 
@@ -25,22 +26,24 @@ const cli = meow(`
 		╭───────╮
 		│7:03 PM│
 		╰───────╯
-`, {
-	flags: {
-		help: {
-			type: 'boolean',
-			alias: 'h'
-		},
-		version: {
-			type: 'boolean',
-			alias: 'v'
-		},
-		feedback: {
-			type: 'boolean',
-			alias: 'f'
+`,
+	{
+		flags: {
+			help: {
+				type: 'boolean',
+				alias: 'h'
+			},
+			version: {
+				type: 'boolean',
+				alias: 'v'
+			},
+			feedback: {
+				type: 'boolean',
+				alias: 'f'
+			}
 		}
-	}
-});
+	},
+);
 
 console.log(
 	boxen(oclock(), {
@@ -49,7 +52,7 @@ console.log(
 		borderStyle: 'round',
 		pading: 3,
 		margin: 1
-	})
+	}),
 );
 
 if (cli.flags.feedback) {
